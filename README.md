@@ -210,7 +210,7 @@ Publish the website in the given URL.
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by PAVITHRA P(212221220037) </center>
+        <center> Designed and Developed by MANO(212221040100) </center>
     </footer>
 </body>
 </html>
@@ -400,7 +400,7 @@ Publish the website in the given URL.
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by PAVITHRA P(212221220037) </center>
+        <center> Designed and Developed by MANO(212221040141) </center>
     </footer>
 </body>
 </html>
@@ -557,7 +557,7 @@ Publish the website in the given URL.
                     <td> <img src="java.jpg"> </td>
                 </tr>
                 <tr align="center">
-                    <th> PAVITHRA</th>
+                    <th> MANO</th>
                     <th> SUNDAR PICHAI/th>
                     <th> TIM BERNERS-LEE</th>
                     <th> RASMUS LENDORF </th>
@@ -576,7 +576,7 @@ Publish the website in the given URL.
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by PAVITHRA P(212221220037) </center>
+        <center> Designed and Developed by MANO(212221040100) </center>
     </footer>
 </body>
 </html>
