@@ -816,9 +816,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![1](https://github.com/manomadhivanan/softweb/assets/115543366/dab41daa-f0a9-443a-a3bc-3f8167d1d423)
 ![2](https://github.com/manomadhivanan/softweb/assets/115543366/d9d28c57-386e-4585-9562-e0c06f6ccc40)
-![3](https://github.com/manomadhivanan/softweb/assets/115543366/70deb02e-76f9-424a-b89b-8cdf3a68a25b)
+[MANO.pdf](https://github.com/manomadhivanan/softweb/files/15247287/MANO.pdf)
 ![4](https://github.com/manomadhivanan/softweb/assets/115543366/7de79059-9b94-40df-9929-2345ba28508c)
-
 
 
 ## RESULT:
