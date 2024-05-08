@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:08/05/2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -400,7 +400,7 @@ Publish the website in the given URL.
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by MANO(212221040141) </center>
+        <center> Designed and Developed by MANO(212221040100) </center>
     </footer>
 </body>
 </html>
@@ -799,8 +799,8 @@ Publish the website in the given URL.
             <div class="box-2"> 
                 <h2> Contact Information </h2>
                 <p> <span>Address</span> : No:1122 76th street 12th sector kk nagar chennai </p>
-                <p> <span>Email</span> : pavithra1014@gmail.com </p>
-                <p> <span>Phone</span> : 9762882670 </p>
+                <p> <span>Email</span> : manoxavier1@gmail.com </p>
+                <p> <span>Phone</span> : 9363107377 </p>
             </div>
         </div>
     </div>
