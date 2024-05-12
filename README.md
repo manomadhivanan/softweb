@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:08/05/2024
+## Date:12/04/2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -817,7 +817,7 @@ Publish the website in the given URL.
 ![1](https://github.com/manomadhivanan/softweb/assets/115543366/dab41daa-f0a9-443a-a3bc-3f8167d1d423)
 ![2](https://github.com/manomadhivanan/softweb/assets/115543366/d9d28c57-386e-4585-9562-e0c06f6ccc40)
 [MANO.pdf](https://github.com/manomadhivanan/softweb/files/15247287/MANO.pdf)
-![4](https://github.com/manomadhivanan/softweb/assets/115543366/7de79059-9b94-40df-9929-2345ba28508c)
+<img width="960" alt="image" src="https://github.com/manomadhivanan/softweb/assets/115543366/b4e72ed2-7d76-4c1f-b0b9-99e8f4a522ac">
 
 
 ## RESULT:
